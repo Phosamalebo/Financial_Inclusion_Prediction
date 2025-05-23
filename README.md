@@ -7,4 +7,4 @@ This project uses a neural network to predict whether an individual has a bank a
 - `Train (2).csv`: Training dataset with labeled samples.
 - `Test (2).csv`: Test dataset without labels.
 - `submission.csv`: Output file containing predictions.
-- `main.py`: Main Python script containing the full pipeline (data processing, model training, and prediction).
+- `finance.py`: Main Python script containing the full pipeline (data processing, model training, and prediction).
